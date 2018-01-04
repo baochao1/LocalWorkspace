@@ -1,14 +1,19 @@
 package main.webapp;
 
-import java.util.Scanner;
-
-import org.omg.Messaging.SyncScopeHelper;
+import org.junit.Test;
 
 public class Sysinprint {
-	public static void main(String[] args) {
-		Scanner in = new Scanner(System.in);
-		System.out.println("what's your name?");
-		String name = in.nextLine();
-		System.out.println(name);
+
+
+	@Test
+	public void initA(){
+		int a = 2;
+		doubleA(a);
+		System.out.println(a);
+	}
+	
+
+	void doubleA(int a){
+		a = a*2;
 	}
 }
