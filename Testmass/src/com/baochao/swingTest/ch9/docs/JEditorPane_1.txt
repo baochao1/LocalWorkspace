@@ -1,0 +1,4 @@
+ This is a Plain text file
+
+使用 "记事本" 输入后存储的 txt 文件
+
