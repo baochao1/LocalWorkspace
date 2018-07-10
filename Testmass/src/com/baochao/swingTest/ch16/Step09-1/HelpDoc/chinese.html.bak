@@ -1,0 +1,18 @@
+<HTML>
+<HEAD>
+  <META NAME="GENERATOR" CONTENT="Adobe PageMill 2.0 Mac">
+  <TITLE>Help</TITLE>
+</HEAD>
+<BODY>
+
+<H1><IMG SRC="javalogo2.gif" WIDTH="52" HEIGHT="88" ALIGN="MIDDLE" NATURALSIZEFLAG="3">Help</H1>
+
+<P>歡迎使用本程式.你現在看到的畫面是一個利用Swing的JEditorPane component來展現HTML檔案.很不錯吧!!</P>
+
+<H3>切換語言版本</H3>
+
+<UL>
+  <LI><A HREF="english.html">英文版(English Edition)</A>
+</UL>
+</BODY>
+</HTML>
